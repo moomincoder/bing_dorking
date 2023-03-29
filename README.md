@@ -15,3 +15,5 @@ example.com
 and include the dorks file that is in the repo.
 
 total command is ```python3 ./web_dorking.py dorks.txt targets.txt```
+
+# TO BE USED FOR EDUCATIONAL PURPOSES ONLY
