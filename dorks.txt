@@ -1,0 +1,20 @@
+site:http://dropbox.com/s "target"
+site:http://box.com/s "target"
+site:http://docs.google.com inurl:"/d/" "target"
+site:target filetype:log
+site:target inurl:/proc/self/cwd
+site:target intitle:"index of" inurl:ftp
+site:target filetype:env
+site:target filetype:log username putty
+site:target filetype:xls inurl:"email.xls"
+site:target "index of" "database.sql.zip"
+site:target intitle:"Index of" wp-admin
+site:target intitle:"Apache2 Ubuntu Default Page: It works"
+site:target "Index of" inurl:phpmyadmin
+site:target inurl:Dashboard.jspa intext:"Atlassian Jira Project Management Software"
+site:target inurl:app/kibana intext:Loading Kibana
+site:target inurl:_cpanel/forgotpwd
+site:target intext:enc_UserPassword=* ext:pcf
+site:target intitle:"Index of"
+site:target inurl: "phpmyadmin/setup/"
+site:target inurl:ssh intitle:index of /files
